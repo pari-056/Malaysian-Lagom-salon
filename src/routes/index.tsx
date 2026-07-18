@@ -89,7 +89,7 @@ function Index() {
             { k: "4.9★", v: "Google rating" },
             { k: "369+", v: "Five-star reviews" },
             { k: "10+", v: "Senior artists" },
-            { k: "L'Oréal", v: "Professional partner" },
+            { k: "1000+", v: "Happy Clients" },
           ].map((s) => (
             <div key={s.v}>
               <div className="font-display text-3xl text-gold md:text-4xl">{s.k}</div>
