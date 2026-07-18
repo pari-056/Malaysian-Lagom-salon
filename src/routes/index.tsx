@@ -52,7 +52,7 @@ function Index() {
               <span className="italic text-gold-gradient">become artistry.</span>
             </h1>
             <p className="mt-8 max-w-xl text-base leading-relaxed text-foreground/75 md:text-lg">
-              Malaysian Lagom is Purasaiwakkam's home for luxury unisex hair, nail, bridal and skin
+              Malaysian Lagom is Anna Nagar's home for luxury unisex hair, nail, bridal and skin
               services — designed around one guest at a time.
             </p>
 
