@@ -11,8 +11,8 @@ export const BRAND = {
   rating: "4.9",
   reviewCount: "369",
   address: {
-    line1: "Plot No. W-99, 3rd Avenue",
-    line2: "Anna Nagar West",
+    line1: "1572, 13th Main Road, Opposite Ram IAS",
+    line2: "Bharathi Colony, Bharathi Nagar, Anna Nagar",
     line3: "Chennai, Tamil Nadu 600040",
   },
   mapsUrl:
