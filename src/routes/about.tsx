@@ -10,7 +10,7 @@ export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
       { title: "About — Malaysian Lagom Unisex Salon, Chennai" },
-      { name: "description", content: "Our story, mission and team at Malaysian Lagom Hair & Nail Unisex Salon in Purasaiwakkam, Chennai." },
+      { name: "description", content: "Our story, mission and team at Malaysian Lagom Hair & Nail Unisex Salon in Anna Nagar, Chennai." },
       { property: "og:title", content: "About Malaysian Lagom Unisex Salon" },
       { property: "og:url", content: "/about" },
     ],
@@ -45,7 +45,7 @@ function AboutPage() {
             <h2 className="mt-4 font-display text-3xl md:text-4xl">A salon built around a single idea.</h2>
             <p className="mt-6 text-base leading-relaxed text-muted-foreground">
               Malaysian Lagom Hair & Nail Unisex Salon was founded to bring a calmer, more considered
-              luxury experience to Purasaiwakkam. We believe great beauty isn't rushed — it's the
+              luxury experience to Anna Nagar. We believe great beauty isn't rushed — it's the
               result of listening, precise technique and time spent on the finest details.
             </p>
             <p className="mt-4 text-base leading-relaxed text-muted-foreground">

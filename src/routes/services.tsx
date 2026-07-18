@@ -8,7 +8,7 @@ export const Route = createFileRoute("/services")({
   head: () => ({
     meta: [
       { title: "Services — Malaysian Lagom Unisex Salon, Chennai" },
-      { name: "description", content: "Full menu of hair, nail, beauty and bridal services at Malaysian Lagom Unisex Salon in Purasaiwakkam, Chennai." },
+      { name: "description", content: "Full menu of hair, nail, beauty and bridal services at Malaysian Lagom Unisex Salon in Anna Nagar, Chennai." },
       { property: "og:title", content: "Services — Malaysian Lagom Unisex Salon" },
       { property: "og:url", content: "/services" },
     ],

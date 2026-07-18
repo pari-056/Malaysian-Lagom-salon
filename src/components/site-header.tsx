@@ -1,7 +1,7 @@
 import { Link } from "@tanstack/react-router";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
-import logo from "@/assets/logo.jpg.asset.json";
+import logo from "@/assets/logo.jpeg";
 import { BRAND } from "@/lib/brand";
 
 const NAV = [
@@ -29,7 +29,7 @@ export function SiteHeader({ transparent = false }: { transparent?: boolean }) {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
         <Link to="/" className="flex items-center gap-3">
           <img
-            src={logo.url}
+            src={logo}
             alt="Malaysian Lagom logo"
             width={44}
             height={44}

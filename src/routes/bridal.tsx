@@ -11,7 +11,7 @@ export const Route = createFileRoute("/bridal")({
   head: () => ({
     meta: [
       { title: "Bridal Studio — Malaysian Lagom, Chennai" },
-      { name: "description", content: "Bridal, reception, engagement and pre-bridal packages at Malaysian Lagom Unisex Salon, Purasaiwakkam, Chennai." },
+      { name: "description", content: "Bridal, reception, engagement and pre-bridal packages at Malaysian Lagom Unisex Salon, Anna Nagar, Chennai." },
       { property: "og:url", content: "/bridal" },
     ],
     links: [{ rel: "canonical", href: "/bridal" }],

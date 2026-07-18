@@ -25,7 +25,7 @@ const services = [
 
 const testimonials = [
   { name: "Divya R.", text: "The bridal package made my wedding day unforgettable — every detail was perfect.", role: "Bride, Chennai" },
-  { name: "Karthik S.", text: "Best fade and beard sculpt in Purasaiwakkam. Warm hospitality every single visit.", role: "Regular guest" },
+  { name: "Karthik S.", text: "Best fade and beard sculpt in Anna Nagar. Warm hospitality every single visit.", role: "Regular guest" },
   { name: "Aisha M.", text: "Loved the nail art and gel extensions — they still look fresh three weeks later!", role: "Nail client" },
 ];
 

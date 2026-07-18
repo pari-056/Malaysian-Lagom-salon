@@ -9,7 +9,7 @@ export const Route = createFileRoute("/testimonials")({
   head: () => ({
     meta: [
       { title: "Reviews — Malaysian Lagom Unisex Salon, Chennai" },
-      { name: "description", content: "Real Google reviews and testimonials from guests of Malaysian Lagom Hair & Nail Unisex Salon, Purasaiwakkam." },
+      { name: "description", content: "Real Google reviews and testimonials from guests of Malaysian Lagom Hair & Nail Unisex Salon, Anna Nagar." },
       { property: "og:url", content: "/testimonials" },
     ],
     links: [{ rel: "canonical", href: "/testimonials" }],
@@ -19,7 +19,7 @@ export const Route = createFileRoute("/testimonials")({
 
 const REVIEWS = [
   { name: "Divya R.", role: "Bride, Chennai", text: "The bridal package made my wedding day unforgettable. Every detail — from my trial to draping — was perfect. My family still talks about how radiant I looked." },
-  { name: "Karthik S.", role: "Regular guest", text: "The best fade and beard sculpt in Purasaiwakkam, hands down. The team is warm, precise and always on time." },
+  { name: "Karthik S.", role: "Regular guest", text: "The best fade and beard sculpt in Anna Nagar, hands down. The team is warm, precise and always on time." },
   { name: "Aisha M.", role: "Nail client", text: "Loved my nail art and gel extensions — they still look fresh three weeks later. The nail studio is spotless." },
   { name: "Priya K.", role: "Colour client", text: "Genuinely the best salon experience I've had in Chennai. My balayage turned out exactly like the reference, and my hair still feels healthy." },
   { name: "Nikhil V.", role: "First-time visitor", text: "Walked in for a keratin treatment on a friend's recommendation. Incredible service, professional products and the ambience is very calming." },

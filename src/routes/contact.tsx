@@ -10,7 +10,7 @@ export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
       { title: "Contact — Malaysian Lagom Unisex Salon, Chennai" },
-      { name: "description", content: "Address, phone, hours and directions for Malaysian Lagom Hair & Nail Unisex Salon in Purasaiwakkam, Chennai." },
+      { name: "description", content: "Address, phone, hours and directions for Malaysian Lagom Hair & Nail Unisex Salon in Anna Nagar, Chennai." },
       { property: "og:url", content: "/contact" },
     ],
     links: [{ rel: "canonical", href: "/contact" }],
@@ -37,7 +37,7 @@ function ContactPage() {
         <div className="grid gap-12 md:grid-cols-2">
           <div>
             <div className="text-xs uppercase tracking-[0.3em] text-gold">Salon Details</div>
-            <h2 className="mt-4 font-display text-3xl md:text-4xl">Visit us in Purasaiwakkam.</h2>
+            <h2 className="mt-4 font-display text-3xl md:text-4xl">Visit us in Anna Nagar.</h2>
 
             <ul className="mt-10 space-y-6 text-sm">
               <li className="flex gap-4">

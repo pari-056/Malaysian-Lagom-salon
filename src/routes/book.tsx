@@ -10,7 +10,7 @@ export const Route = createFileRoute("/book")({
   head: () => ({
     meta: [
       { title: "Book Appointment — Malaysian Lagom Unisex Salon" },
-      { name: "description", content: "Reserve an appointment at Malaysian Lagom Hair & Nail Unisex Salon in Purasaiwakkam, Chennai." },
+      { name: "description", content: "Reserve an appointment at Malaysian Lagom Hair & Nail Unisex Salon in Anna Nagar, Chennai." },
       { property: "og:url", content: "/book" },
     ],
     links: [{ rel: "canonical", href: "/book" }],
