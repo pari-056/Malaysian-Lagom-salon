@@ -19,7 +19,7 @@ export const BRAND = {
     "https://www.google.com/maps/search/?api=1&query=Malaysian+Lagom+Hair+%26+Nail+Unisex+Salon+Anna+Nagar+Chennai",
   mapsEmbed:
     "https://www.google.com/maps?q=Malaysian+Lagom+Hair+%26+Nail+Unisex+Salon,+Anna+Nagar,+Chennai,+Tamil+Nadu+600040&output=embed",
-  instagram: "https://instagram.com/malaysianlagom",
+  instagram: "https://www.instagram.com/lagom_salons",
 };
 
 export const WHATSAPP_LINK = `https://wa.me/${BRAND.whatsapp}?text=${encodeURIComponent(
