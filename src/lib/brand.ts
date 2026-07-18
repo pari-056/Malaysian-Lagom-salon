@@ -11,15 +11,15 @@ export const BRAND = {
   rating: "4.9",
   reviewCount: "369",
   address: {
-    line1: "2nd Floor, 386/129, Purasaivakkam High Rd",
-    line2: "Kellys, Lumbini Square, Purasaiwakkam",
-    line3: "Chennai, Tamil Nadu 600010",
+    line1: "Plot No. W-99, 3rd Avenue",
+    line2: "Anna Nagar West",
+    line3: "Chennai, Tamil Nadu 600040",
   },
   mapsUrl:
-    "https://www.google.com/maps/search/?api=1&query=Malaysian+Lagom+Unisex+Salon+Purasaiwakkam+Chennai",
+    "https://www.google.com/maps/search/?api=1&query=Malaysian+Lagom+Hair+%26+Nail+Unisex+Salon+Anna+Nagar+Chennai",
   mapsEmbed:
-    "https://www.google.com/maps?q=Purasaivakkam+High+Rd,+Kellys,+Lumbini+Square,+Purasaiwakkam,+Chennai,+Tamil+Nadu+600010&output=embed",
-  instagram: "https://instagram.com/",
+    "https://www.google.com/maps?q=Malaysian+Lagom+Hair+%26+Nail+Unisex+Salon,+Anna+Nagar,+Chennai,+Tamil+Nadu+600040&output=embed",
+  instagram: "https://instagram.com/malaysianlagom",
 };
 
 export const WHATSAPP_LINK = `https://wa.me/${BRAND.whatsapp}?text=${encodeURIComponent(
