@@ -69,21 +69,21 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Pyaar Unisex Salon — Luxury Hair, Beauty & Grooming in Purasaiwakkam, Chennai" },
+      { title: "Malaysian Lagom Hair & Nail Unisex Salon — Purasaiwakkam, Chennai" },
       {
         name: "description",
         content:
-          "Pyaar Unisex Salon in Purasaiwakkam, Chennai. Precision haircuts, colour, bridal makeup, facials and grooming — rated 4.9 by 3,200+ guests.",
+          "Malaysian Lagom Hair & Nail Unisex Salon in Purasaiwakkam, Chennai. Luxury hair, nails, bridal, skin and grooming services — rated 4.9 by 369+ guests.",
       },
-      { name: "author", content: "Pyaar Unisex Salon" },
-      { property: "og:title", content: "Pyaar Unisex Salon — Chennai" },
+      { name: "author", content: "Malaysian Lagom Unisex Salon" },
+      { property: "og:title", content: "Malaysian Lagom Hair & Nail Unisex Salon — Chennai" },
       {
         property: "og:description",
         content:
-          "Luxury unisex salon in Purasaiwakkam offering hair, colour, bridal, facial and grooming services. 4.9★ from 3,200+ guests.",
+          "Luxury unisex hair & nail salon in Purasaiwakkam offering hair, nails, bridal, facial and grooming services. 4.9★ from 369+ guests.",
       },
       { property: "og:type", content: "website" },
-      { property: "og:site_name", content: "Pyaar Unisex Salon" },
+      { property: "og:site_name", content: "Malaysian Lagom Unisex Salon" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
     links: [
@@ -102,9 +102,9 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         children: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "HairSalon",
-          name: "Pyaar Unisex Salon",
+          name: "Malaysian Lagom Hair & Nail Unisex Salon",
           image: "",
-          telephone: "+91 86676 71547",
+          telephone: "+91 63796 01362",
           address: {
             "@type": "PostalAddress",
             streetAddress: "2nd Floor, 386/129, Purasaivakkam High Rd, Kellys, Lumbini Square",
@@ -116,7 +116,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           aggregateRating: {
             "@type": "AggregateRating",
             ratingValue: "4.9",
-            reviewCount: "3222",
+            reviewCount: "369",
           },
         }),
       },
